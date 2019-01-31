@@ -1,6 +1,6 @@
 {
   "name": "com.gravity.sample",
-  "version": "1.0.5",
+  "version": "1.0.0-SNAPSHOT",
   "description": "Sample for building node js application",
   "main": "index.js",
   "scripts": {
