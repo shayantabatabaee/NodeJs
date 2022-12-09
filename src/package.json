@@ -9,7 +9,7 @@
   "author": "Shayan Tabatabaei",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.17.3"
   },
   "bundledDependencies": [
     "express"
