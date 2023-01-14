@@ -21,7 +21,7 @@
     "gulp-replace": "^1.0.0",
     "gulp-run": "^1.7.1",
     "webpack": "^4.29.0",
-    "webpack-cli": "^3.2.1",
+    "webpack-cli": "^3.3.12",
     "webpack-node-externals": "^1.7.2"
   }
 }
